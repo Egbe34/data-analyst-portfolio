@@ -54,6 +54,7 @@ This section showcases 5 data analytics dashboards across business, finance, HR,
 ## 🖼️ Dashboard Gallery
 ![image](https://github.com/user-attachments/assets/6779e801-e306-46b5-86e1-996704288629)
 ![image](https://github.com/user-attachments/assets/51acfc1e-5289-4ee5-83d9-47c560b04e2e)
+![image](https://github.com/user-attachments/assets/8e6be831-a986-416f-8155-d2e96ee638b4)
 
 
 ![Sales & Customer](./dashboard1.png)  
