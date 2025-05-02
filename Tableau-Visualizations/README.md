@@ -1,4 +1,4 @@
-# 📊 Tableau & Power BI Project Portfolio
+# 📊 Tableau  Project Portfolio
 
 This section showcases 5 data analytics dashboards across business, finance, HR, and aviation domains. Projects were created using Tableau and Power BI to drive decisions through data.
 
